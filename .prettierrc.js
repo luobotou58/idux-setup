@@ -9,6 +9,6 @@ module.exports = {
   bracketSpacing: true,
   arrowParens: 'avoid',
   proseWrap: 'preserve',
-  endOfLine: 'lf',
+  endOfLine: 'auto',
   htmlWhitespaceSensitivity: 'strict',
 }
